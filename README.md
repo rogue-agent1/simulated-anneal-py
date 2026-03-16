@@ -1,0 +1,1 @@
+# simulated-anneal-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 simulated_anneal.py\n```\n
